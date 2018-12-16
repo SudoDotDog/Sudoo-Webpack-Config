@@ -1,0 +1,23 @@
+{
+  "name": "@sudoo/webpack-config",
+  "version": "1.0.0",
+  "description": ":city_sunset: Webpack config",
+  "main": "webpack/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SudoDotDog/Sudoo-Webpack-Config.git"
+  },
+  "keywords": [
+    "webpack",
+    "sudoo"
+  ],
+  "author": "WMXPY",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SudoDotDog/Sudoo-Webpack-Config/issues"
+  },
+  "homepage": "https://github.com/SudoDotDog/Sudoo-Webpack-Config#readme"
+}
